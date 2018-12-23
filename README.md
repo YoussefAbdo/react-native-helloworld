@@ -23,7 +23,7 @@ react-native run-android
 		"react-native": "0.43.3",
 		"react-native-helloworld":"file:../"
 	},
-    ```
+   	 ```
 3. Link dependencies:
 
     ```bash
